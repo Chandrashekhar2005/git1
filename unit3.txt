@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 master git 3 
 
 master git 3 3rd branch
+=======
+master git 3 3rd branch
+>>>>>>> all-plot

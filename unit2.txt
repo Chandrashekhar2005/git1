@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 master git2 
 
 master git2 2nd branch
+=======
+master git2 2nd branch
+>>>>>>> all-plot
